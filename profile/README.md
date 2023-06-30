@@ -2,7 +2,7 @@
 
 ![LBRF Banner](https://lbrfdalhousie.files.wordpress.com/2015/07/cropped-revised_header4.jpg)
 
-This is the home for tThe open-access analysis pipleines for our studies. The purpose of this page is to archive copies of the code used to analyze data for studies completed in the lab.
+This is the repository for the open-access analysis pipleines for our studies. The purpose of this page is to archive copies of the code used to analyze data for studies completed in the LBRF.
 
 The lab's hompage can be found here [LBRF](https://github.com/LBRF).
 
